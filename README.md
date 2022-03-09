@@ -2,9 +2,12 @@
 I am Shreyansh Khandelwal. I am a final year Bachelor's student pursuing Computer Science and Engineering.
 
 📫 How to reach me: 
- LinkedIn - https://www.linkedin.com/in/skhandelwal12/
+<br/>
+ LinkedIn - https://www.linkedin.com/in/skhandelwal12/ 
  
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Shreyansh-code&show_icons=true)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Shreyansh-code&show_icons=true)\
+ <br/>
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh-code&theme=black-white)\
 <!--
 **Shreyansh-code/Shreyansh-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
